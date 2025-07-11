@@ -1,23 +1,9 @@
-# ⚠️ IMPORTANT: This package has been renamed to `batchata`
+# ai-batch is now batchata
 
-**Please use `pip install batchata` instead.**
+This package has been renamed. Use `pip install batchata` instead.
 
 New package: https://pypi.org/project/batchata/  
 New repository: https://github.com/agamm/batchata
-
----
-
-# AI Batch
-
-Python SDK for **batch processing** with structured output and citation mapping.
-
-- **50% cost savings** via Anthropic's batch API pricing
-- **Automatic cost tracking** with token usage and pricing
-- **Structured output** with Pydantic models  
-- **Field-level citations** map results to source documents
-- **Type safety** with full validation
-
-Currently supports Anthropic Claude. OpenAI support coming soon.
 
 ## API Reference
 
