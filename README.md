@@ -1,3 +1,12 @@
+# ⚠️ IMPORTANT: This package has been renamed to `batchata`
+
+**Please use `pip install batchata` instead.**
+
+New package: https://pypi.org/project/batchata/  
+New repository: https://github.com/agamm/batchata
+
+---
+
 # AI Batch
 
 Python SDK for **batch processing** with structured output and citation mapping.
